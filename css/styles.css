@@ -168,6 +168,10 @@ html {
   border-radius: 4px;
   margin-bottom: 8px;
 }
+.benefits-svg-box{
+  
+}
+
 
 /* nav */
 .page-header {
@@ -331,7 +335,7 @@ html {
   align-items: center;
   justify-content: center;
   background-color: var(--iris-color);
-  color: var(--cloud-color);
+  color: var(--black);
 }
 
 .team-social-svg {
